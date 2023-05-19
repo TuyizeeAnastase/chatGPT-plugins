@@ -34,8 +34,7 @@
 
 ### Running server localyy
 
-- [swagger](http://localhost:4500/api-docs/)
-- [server](http://localhost:4500/)
+- [server](http://localhost:3500/)
 
 ### Running tests
 
